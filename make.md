@@ -1,0 +1,1 @@
+In this resource you use the on-board temperature sensor to measure the temperature from the command line, create a script to write this data to a text file.  Then run the script automatically on start up.
